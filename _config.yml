@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Boyu Wang"
-description              : "The acad homepage of Boyu Wang, a PhD student at the Beijing University of Technology (BJUT)."
+description              : "First year Ph.D student at Beijing University of Technology (BJUT), interested in Reliability Analysis, Uncertainty Quantification and P-box Modelling."
 repository               : "BoyuWang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Boyu Wang"
   avatar           : "images/android-chrome-512x512.png"
-  bio              : "Beijing University of Technology"
+  bio              : 
   location         : "Beijing, China"
   employer         :
   pubmed           : 
@@ -37,13 +37,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "wangbuni"
+  github           : "Bo-Yu-Wang"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : # e.g., "https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : # e.g., "linkedin username"
+  linkedin         : "Boyu Wang"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
   orcid            : "https://orcid.org/0009-0008-3093-5444"
   pinterest        :
