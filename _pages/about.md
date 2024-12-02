@@ -23,8 +23,7 @@ I am interested in Reliability Analysis, Uncertainty Quantification and P-box Mo
 # 📝 Publications 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/TMI-xkcd-2.25-1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
-[Third moment method for reliability analysis with uncertain moments characterized as interval variables](https://doi.org/10.1016/j.strusafe.2024.102499), **Bo-Yu Wang**, Xuan-Yi Zhang*, Yan-Gang Zhao, **Structural Safety 111 (2024)** \| [\[Brief introduction in Chinese\]](https://mp.weixin.qq.com/s/0H89X1nHaLQ_BkuZEAb4gQ)
+[Third moment method for reliability analysis with uncertain moments characterized as interval variables](https://doi.org/10.1016/j.strusafe.2024.102499), **Bo-Yu Wang**, Xuan-Yi Zhang*, Yan-Gang Zhao, **Structural Safety** 111 (2024) \| [\[Brief introduction in Chinese\]](https://mp.weixin.qq.com/s/0H89X1nHaLQ_BkuZEAb4gQ)
 </div>
 </div>
 
@@ -39,7 +38,7 @@ I am interested in Reliability Analysis, Uncertainty Quantification and P-box Mo
 - *2017.09 - 2021.06*, Inner Mongolia University, B.S., Civil Engineering, Transportation Institute. 
 
 # 💬 Presentations
-- *2024.10*, 9th International Symposium on Reliability Engineering and Risk Management (ISRERM 2024), Reliability Analysis Considering Uncertain Correlation Coefficients as Interval Variables, *Oral*.
-- *2023.07*, 14th International Conference on Applications of Statistics and Probability in Civil Engineering (ICASP14), [The Method for Structural Reliability Analysis Considering the First Three Moments as Interval Variables](https://www.researchgate.net/publication/385504113_The_method_for_structural_reliability_analysis_considering_the_first_three_moments_as_interval_variables), *Oral*.
-- *2023.02*, International Forum on Reliability Engineering and Risk Management (IFRERM2023), Reliability Analysis Considering Uncertain Moments as Interval Variables, *Online Oral*.
+- *2024.10*, Reliability Analysis Considering Uncertain Correlation Coefficients as Interval Variables, *9th International Symposium on Reliability Engineering and Risk Management (ISRERM 2024)*, **Oral**.
+- *2023.07*, [The Method for Structural Reliability Analysis Considering the First Three Moments as Interval Variables](https://www.researchgate.net/publication/385504113_The_method_for_structural_reliability_analysis_considering_the_first_three_moments_as_interval_variables), *14th International Conference on Applications of Statistics and Probability in Civil Engineering (ICASP14)*, **Oral**.
+- *2023.02*, Reliability Analysis Considering Uncertain Moments as Interval Variables, *International Forum on Reliability Engineering and Risk Management (IFRERM2023)*, **Online Oral**.
 
