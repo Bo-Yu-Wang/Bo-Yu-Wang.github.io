@@ -19,9 +19,6 @@ redirect_from:
 
 My research is focused on inverse probabilistic and non-probabilistic methods for Uncertainty Quantification, the modelling of spatial and multi-variate uncertainty under scarce data using interval methods and the application of high-dimensional measurement techniques such as Digital Image Correlation. Recently, I also initiated works in the field of grey-box modelling.
 
-{%# 🔥 News%}
-{%- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. %}
-{%- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. %}
 
 # 📝 Publications 
 
