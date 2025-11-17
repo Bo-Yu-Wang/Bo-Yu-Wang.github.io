@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Boyu Wang"
-description              : "First year Ph.D student at Beijing University of Technology (BJUT)"
+description              : "Second year Ph.D student at Beijing University of Technology (BJUT), visiting student at Technische Universität Dortmund (TUD)"
 repository               : "BoyuWang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,7 +24,7 @@ author:
   name             : "Boyu Wang"
   avatar           : "images/android-chrome-512x512.png"
   bio              : 
-  location         : "Beijing, China"
+  location         : "Dortmund, Germany"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=0ZWXeKQAAAAJ"
