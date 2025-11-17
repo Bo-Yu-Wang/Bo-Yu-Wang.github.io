@@ -27,7 +27,7 @@ I am interested in Reliability Analysis, Uncertainty Quantification and P-box Mo
 </div>
 </div>
 
-- [Third Moment Method for Reliability Analysis involving Independent Parametric Probability-Boxes](https://doi.org/10.1016/j.apm.2025.116488), **Bo-Yu Wang**, Xuan-Yi Zhang*, Yan-Gang Zhao, Marcos A. Valdebenito, Matthias G.R. Faes, **Applied Mathematical Modelling**, 116488 (2025) \| [\[Brief introduction in Chinese\]](https://mp.weixin.qq.com/s/0H89X1nHaLQ_BkuZEAb4gQ)
+- [Third Moment Method for Reliability Analysis involving Independent Parametric Probability-Boxes](https://doi.org/10.1016/j.apm.2025.116488), **Bo-Yu Wang**, Xuan-Yi Zhang*, Yan-Gang Zhao, Marcos A. Valdebenito, Matthias G.R. Faes, **Applied Mathematical Modelling** 151, 116488 (2025) \| [\[Brief introduction in Chinese\]](https://mp.weixin.qq.com/s/ULy5N1SOT8-oPocj9t77bg)
 
 # 🎖 Honors and Awards
 - *2023.02* Excellent Paper Award of IFRERM2023. 
