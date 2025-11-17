@@ -27,8 +27,8 @@ I am interested in Reliability Analysis, Uncertainty Quantification and P-box Mo
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/TIPP.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/TIPP.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="2">
 - [Third Moment Method for Reliability Analysis involving Independent Parametric Probability-Boxes](https://doi.org/10.1016/j.apm.2025.116488), **Bo-Yu Wang**, Xuan-Yi Zhang*, Yan-Gang Zhao, Marcos A. Valdebenito, Matthias G.R. Faes, **Applied Mathematical Modelling** 151, 116488 (2025) \| [\[Brief introduction in Chinese\]](https://mp.weixin.qq.com/s/ULy5N1SOT8-oPocj9t77bg)
 </div>
 </div>
