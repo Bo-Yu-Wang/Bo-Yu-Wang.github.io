@@ -37,6 +37,7 @@ I am interested in Reliability Analysis, Uncertainty Quantification and P-box Mo
 - *2023.02* Excellent Paper Award of IFRERM2023. 
 
 # 📖 Educations
+- *2025.12 - 2026.12*, Technische Universität Dortmund, Visiting PhD Student (CSC-funded), Chair for Reliability Engineering.
 - *2024.09 - now*, Beijing University of Technology, PhD student, Civil Engineering, College of Architecture and Civil Engineering. 
 - *2021.09 - 2024.06*, Beijing University of Technology, MA.Eng, Civil Engineering, Faculty of Architecture, Civil And Transportation Engineering.
 - *2017.09 - 2021.06*, Inner Mongolia University, B.S., Civil Engineering, Transportation Institute. 
