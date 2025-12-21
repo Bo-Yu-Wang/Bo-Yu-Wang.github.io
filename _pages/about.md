@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am interested in Reliability Analysis, Uncertainty Quantification and P-box Modelling. I was mainly focused on inverse probabilistic and non-probabilistic methods for Uncertainty Quantification, the modelling of spatial and multi-variate uncertainty under scarce data using interval methods and grey-box modelling.
+I am interested in uncertainty propagation, reliability analysis, and p-box modelling. My research mainly focuses on uncertainty propagation and reliability analysis based on parametric probability boxes under scarce data, as well as time-dependent reliability analysis under imprecise probability.
 
 
 # 📝 Publications 
