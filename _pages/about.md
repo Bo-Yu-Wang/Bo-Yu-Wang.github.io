@@ -43,7 +43,8 @@ I am interested in uncertainty propagation, reliability analysis, and p-box mode
 - *2017.09 - 2021.06*, Inner Mongolia University, B.S., Civil Engineering, Transportation Institute. 
 
 # 💬 Presentations
-- *2024.10*, Reliability Analysis Considering Uncertain Correlation Coefficients as Interval Variables, *9th International Symposium on Reliability Engineering and Risk Management (ISRERM 2024)*, **Oral**.
-- *2023.07*, [The Method for Structural Reliability Analysis Considering the First Three Moments as Interval Variables](https://www.researchgate.net/publication/385504113_The_method_for_structural_reliability_analysis_considering_the_first_three_moments_as_interval_variables), *14th International Conference on Applications of Statistics and Probability in Civil Engineering (ICASP14)*, **Oral**.
-- *2023.02*, Reliability Analysis Considering Uncertain Moments as Interval Variables, *International Forum on Reliability Engineering and Risk Management (IFRERM2023)*, **Online Oral**.
+- *2026.09*, [Hybrid Reliability Analysis with Uncertainty in Correlation Coefficients and First Two Statistical Moments](https://doi.org/10.17877/tudobooks-11.161), *11th International Workshop on Reliable Engineering Computing (REC2026)*, Dortmund, Germany, **Oral**.
+- *2024.10*, Reliability Analysis Considering Uncertain Correlation Coefficients as Interval Variables, *9th International Symposium on Reliability Engineering and Risk Management (ISRERM2024)*, Hefei, China, **Oral**.
+- *2023.07*, [The Method for Structural Reliability Analysis Considering the First Three Moments as Interval Variables](https://www.researchgate.net/publication/385504113_The_method_for_structural_reliability_analysis_considering_the_first_three_moments_as_interval_variables), *14th International Conference on Applications of Statistics and Probability in Civil Engineering (ICASP14)*, Dublin, Ireland, **Oral**.
+- *2023.02*, Reliability Analysis Considering Uncertain Moments as Interval Variables, *International Forum on Reliability Engineering and Risk Management (IFRERM2023)*, Yokohama, Japan, **Online Oral**.
 
